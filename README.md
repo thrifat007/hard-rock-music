@@ -27,7 +27,7 @@ In this Project I have created a simple Music Lyrics Finder App in vanilla js.
 - CSS
 - JAVASCRIPT
 
-[Back To The Top](#music-app)
+[Back To The Top](#lyrics-finder-app)
 
 ---
 
@@ -36,14 +36,14 @@ In this Project I have created a simple Music Lyrics Finder App in vanilla js.
 #### Installation
 
 ```html
-    gh repo clone thrifat007/hard-rock-music
+    git clone https://github.com/thrifat007/hard-rock-music.git
 ```
-[Back To The Top](#music-app)
+[Back To The Top](#lyrics-finder-app)
 
 ---
 
 ## References
-[Back To The Top](#music-app)
+[Back To The Top](#lyrics-finder-app)
 
 ---
 
@@ -71,7 +71,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#music-app)
+[Back To The Top](#lyrics-finder-app)
 
 ---
 
@@ -81,4 +81,4 @@ SOFTWARE.
 - Linkedin - [@thriat007](https://www.linkedin.com/in/thrifat007)
 - Website - [Tasnimul Hasan Rifat](https://tasnimulhasan.com)
 
-[Back To The Top](#music-app)
+[Back To The Top](#lyrics-finder-app)
